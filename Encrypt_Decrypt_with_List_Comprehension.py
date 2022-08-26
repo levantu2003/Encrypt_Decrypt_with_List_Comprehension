@@ -1,4 +1,3 @@
-from cgitb import text
 
 
 def encryt_char(char, key):
